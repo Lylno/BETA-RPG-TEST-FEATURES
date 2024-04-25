@@ -1,6 +1,6 @@
 # Unreal Melee Combat System
 
-[![Unreal Melee Combat System Demo Video](https://gorh.cn/unreal-melee-combat-system/screenshots/Cover.webp)](https://www.bilibili.com/video/BV1DR4y1z7og/ "Unreal Melee Combat System Demo Video")
+[![Unreal Melee Combat System Demo Video](https://gorh.cn/unreal-melee-combat-system/screenshots/Cover.webp)](https://imgur.com/a/j5BvR4e)
 
 A blueprint soulslike melee combat system on unreal.
 
